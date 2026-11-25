@@ -6,6 +6,6 @@
    - splits the training nodes into train/val/test (70/15/15);
    - fits and evaluates the in-degree baseline;
    - builds perturbed copies of the training graph (1, 5, 10 and 20% of the links changed).
-   - 
+     
    Output: the node and edge tables, the category lists and the metrics in `data/`, and the plots in `figures/`.
    
